@@ -1,9 +1,9 @@
-<h1 align="center"> grotesk-cv </h1>
-<div align="center">Version 1.0.5</div>
+<h1 align="center"> grotesk-resume </h1>
+<div align="center">Version 0.1.0</div>
 <span></span>
 
 
-grotesk-cv provides a pair of elegant and simple, one-page CV and cover letter templates, inspired by  the [Brilliant-cv](https://typst.app/universe/package/brilliant-cv/) and [fireside](https://typst.app/universe/package/fireside/1.0.0/) templates.
+This fork of grotesk-cv provides an elegant, one-page CV and cover letter templates, inspired by  the [Brilliant-cv](https://typst.app/universe/package/brilliant-cv/) , [fireside](https://typst.app/universe/package/fireside/1.0.0/) and [grotesk-cv](https://typst.app/universe/package/grotesk-cv) templates
 
 
 ### Features 
