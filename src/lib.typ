@@ -23,6 +23,13 @@
   )
 }
 
+#let insert-icon(icon) = {
+  box(
+    height: 0% + 0pt,
+    image(source: icon)
+  )
+}
+
 #let title-block(
   title,
   color,
@@ -46,7 +53,7 @@
     fill: rgb(color),
     weight: "medium",
     if include-icons {
-      fa-icon(icon) + h(10pt) + txt
+      [#insert-icon(icon)] + h(10pt) + txt
     } else {
       txt
     },
